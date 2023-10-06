@@ -9,9 +9,9 @@ public class FirstTest {
 
         System.out.println("JENKINS TE PROJEYİ ÇALIŞTIRMA");
 
-        WebDriver driver = new ChromeDriver();
+        //WebDriver driver = new ChromeDriver();
 
-        driver.get("https://www.amazon.com");
+        //driver.get("https://www.amazon.com");
 
 
     }
