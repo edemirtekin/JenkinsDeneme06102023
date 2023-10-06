@@ -7,7 +7,7 @@ public class FirstTest {
 
     public static void main(String[] args) {
 
-        System.out.println("JENKINS TE PROJEYİ ÇALIŞTIRMA");
+        System.out.println("JENKINS TE PROJEYi run");
 
         //WebDriver driver = new ChromeDriver();
 
